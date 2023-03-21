@@ -35,7 +35,6 @@
                             <constraint firstItem="8Ra-jY-REh" firstAttribute="height" secondItem="Ecp-Kz-FKq" secondAttribute="height" id="HTI-j8-1ac"/>
                             <constraint firstItem="8Ra-jY-REh" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="LpB-Yg-LQg"/>
                             <constraint firstItem="Ecp-Kz-FKq" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="N8q-5m-RO4"/>
-                            <constraint firstItem="8Ra-jY-REh" firstAttribute="width" secondItem="Ecp-Kz-FKq" secondAttribute="width" id="pIu-lw-mWa"/>
                             <constraint firstItem="8Ra-jY-REh" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="20" id="yDw-gS-DzV"/>
                         </constraints>
                     </view>
